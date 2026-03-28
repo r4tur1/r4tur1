@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Aaditya 👋
 
-<!--
-**r4tur1/r4tur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just finished 12th grade with CS (083), now learning front-end development while I figure out what's next in college.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Learning **HTML, CSS, JavaScript** — building small projects as I go
+-  Know some **Python** and **SQL** from school
+-  This is where I'll be putting my code as I learn
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r4tur1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/r4tur1)
