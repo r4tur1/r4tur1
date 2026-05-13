@@ -45,9 +45,9 @@ const aaditya = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=r4tur1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=r4tur1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4tur1&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=r4tur1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
