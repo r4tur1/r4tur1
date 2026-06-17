@@ -63,15 +63,6 @@ const aaditya = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?r4tur1=ryo-ma&theme=monokai" alt= "github trophies" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
