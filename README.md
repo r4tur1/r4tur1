@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Aaditya;Frontend+Developer+in+Progress;Python+%7C+JavaScript+%7C+SQL;Building+Cool+Stuff+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+r4tur1;Building+Cool+Stuff+Everyday" />
 
 </div>
 
@@ -21,11 +21,10 @@
 ```js
 const aaditya = {
     username: "r4tur1",
-    learning: ["HTML", "CSS", "JavaScript"],
-    languages: ["Python", "SQL"],
-    focus: "Frontend Development",
-    goal: "Become a Full Stack Developer",
-    funFact: "Consistency beats motivation 🚀"
+    learning: ["Networking", "Wireless Pentesting"],
+    languages: ["Python", "SQL", "HTML", "CSS", "JS"],
+    focus: "Making automation tools for pentesting and red teaming",
+    goal: "Become a Offensive Security Engineer",
 };
 ```
 
